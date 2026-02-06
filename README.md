@@ -2,8 +2,7 @@
 Code Base for Opening PANDORA and AERONET Files for analysis
 
 
-Acknowledgements
-
+# Acknowledgements
 
 This study is supported and monitored by The National Aeronautic and Space Administration – Increasing Participation of Minority Serving Institutions in Earth Science Division
 Surface-Based Measurement Networks under the Research Opportunities in Space and Earth Sciences Grant #: NNH21ZDA001N-IPMSI. <br />
