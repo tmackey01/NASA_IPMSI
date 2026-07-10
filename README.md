@@ -12,7 +12,7 @@ Individual Awards from the NASA-IPMSI Grant include: <br />
 John Anderson: 80NSSC22K1792 <br />
 Ruben Delgado: 80NSSC23K0027
 
-The work here is supported by The National Aeronautic and Space Administration – Minority University Research and Education Project:
+The work here is supported by The National Aeronautic and Space Administration – Minority University Research and Education Project: <br />
 Ruben Delgado: 80NSSC25M0077
 
 
