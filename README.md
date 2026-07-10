@@ -1,5 +1,7 @@
 # NASA_IPMSI
 Code Base for Opening PANDORA and AERONET Files for analysis
+This is still an active work in progess! 
+If you have any questions, please contact Theo Mackey via email: theodore.mackey@my.hamptonu.edu
 
 
 # Acknowledgements
