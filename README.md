@@ -6,13 +6,12 @@ If you have any questions, please contact Theo Mackey via email: theodore.mackey
 
 # Acknowledgements
 
-The work here is supported by The National Aeronautic and Space Administration – Increasing Participation of Minority Serving Institutions in Earth Science Division
-Surface-Based Measurement Networks (NASA-IPMSI) under the Research Opportunities in Space and Earth Sciences Grant #: NNH21ZDA001N-IPMSI. <br />
+The work here is supported by The National Aeronautic and Space Administration – Increasing Participation of Minority Serving Institutions in Earth Science Division Surface-Based Measurement Networks (NASA-IPMSI) under the Research Opportunities in Space and Earth Sciences Grant #: NNH21ZDA001N-IPMSI. <br />
 Individual Awards from the NASA-IPMSI Grant include: <br />
 John Anderson: 80NSSC22K1792 <br />
 Ruben Delgado: 80NSSC23K0027
 
-The work here is supported by The National Aeronautic and Space Administration – Minority University Research and Education Project: <br />
+The work here is supported by The National Aeronautic and Space Administration – Minority University Research and Education Project (NASA-MUREP): <br />
 Ruben Delgado: 80NSSC25M0077
 
 
