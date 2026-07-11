@@ -8,6 +8,14 @@
    - Quick Link: https://data.hetzner.pandonia-global-network.org
 4. Following this link will take you to a directory list
    - All Pandora Sites should be listed alphabetically by location
-5. Locate your site and navigate into its' folder by double clicking on the site folder
+5. Locate your site and navigate into its' folder by clicking on the site folder
 6. The site should now show a folder with the format: Pandora###s1
-   - \###\ is the ID Number for your Pandora Instrument. Most sites will only have one Pandora, and thus one folder here
+   - \### is the ID Number for your Pandora Instrument. Most sites will only have one Pandora, and thus one folder here
+7. Navigate into the Pandora###s1 folder by clicking on the folder
+8. Now the levels of data should be shown as folders
+   - For the examples shown in this folder, we have used L2 data (L0, L1, and L2Fit examples are in progress)
+9. Navigate into the L2 folder by clicking on the folder
+10. There should now be seven .txt files listed, differentiated by last nine characters in the name
+   - asdas
+11. To view a file, click on the file name, which will open the data as a page in your web browser
+   - To download a file, right click on the file name, and select 'Download Linked File' 
