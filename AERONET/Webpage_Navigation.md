@@ -40,4 +40,4 @@
 8. Aeronet Data for each time period is downloadable directly from the download link underneath each plot
    - A pop-up notice window will appear when the download link is clicked. Scroll to the bottom and click the 'Accept' button to begin the data download
 9. If a specific time period is desired, click the 'More AERONET Downloadable Products' link
-10. This will open a new tab, where the 'Start' and 'End' times of desired data, as well as the desired data category and data type, can be specified
+   - This will open a new tab, where the 'Start' and 'End' times of desired data, as well as the desired data category and data type, can be specified
