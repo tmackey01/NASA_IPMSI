@@ -1,5 +1,5 @@
-**Below is a quick guide to the AERONET Webpage, and how to find, preview and download data
-**Scripts will follow soon to allow for automated download of Aeronet data
+**Below is a quick guide to the AERONET Webpage, and how to find, preview and download data  
+**Scripts will follow soon to allow for automated download of Aeronet data  
 
 1. Accessing Aeronet Data starts by navigating to their website: https://aeronet.gsfc.nasa.gov/new_web/index.html  
 2. On the loading page, locate the 'Synergy Tool' link located on the middle left of the home page  
