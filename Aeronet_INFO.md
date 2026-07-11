@@ -33,7 +33,6 @@ The robot mounted sensor head is parked pointed near-nadir when idle to prevent 
 For the Sun, which is sufficiently far away, the solid angle is defined as: OM = (Surface Area of a Circle w/ r = r_Sun)/(Distance between Earth and Sun)^2 = (piR_sun^2)/(Sun_Earth_Distance^2) = (pi(7e8m)^2)/((1.5e11m)^2) = 6.8e-5 sr <br>
 <br>
 **Steradian(sr)** is defined as the the area an object fills in the sphere around the observer (see: https://en.wikipedia.org/wiki/Steradian) <br>
-  
 <br>
-For Sun-Staring observations, all photons are assumed to be coming from the Sun (this is a pretty good assumption!), so we irradiance is reported <br>
+For Sun-Staring observations, all photons are assumed to be coming from the Sun (this is a pretty good assumption!), so irradiance is reported <br>
 For Sky-Staring observations, there is a large range of possible solid angles for the photon to be scattered into the photometer from, so radiace is reported <br>
