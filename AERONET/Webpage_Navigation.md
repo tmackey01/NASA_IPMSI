@@ -11,25 +11,25 @@
 5. Locate the 'Surface Data' column in the table below the 'Enter Site Name:' box and select the desired Surface Data categories  
    - AOD (Solar)  
      - Aerosol Optical Depth (AOD)  
-    ii. Water Vapor  
-    iii. Angstrom Exponent  
-  - Inversions (Almucantar):   
-    i. Size Distribution  
-    ii. Refractive Index (Real)  
-    iii. Refractive Index (Imaginary)  
-    iv. Absorption Optical Depth  
-    v. Extinction Optical Depth  
-    vi. Single Scattering Albedo  
-    vii. Asymmetry Factor  
-    vii. Phase Function (440nm)  
-    ix. Phase Function (670nm)  
-    x. Phase Function (870nm)  
-    xi. Phase Function (1020nm)
-   - Inversions (Hybrid):   
-    SAME AS ALMUCANTAR  
+     - Water Vapor  
+     - Angstrom Exponent  
+   - Inversions (Almucantar):   
+     - Size Distribution  
+     - Refractive Index (Real)  
+     - Refractive Index (Imaginary)  
+     - Absorption Optical Depth  
+     - Extinction Optical Depth  
+     - Single Scattering Albedo  
+     - Asymmetry Factor  
+     - Phase Function (440nm)  
+     - Phase Function (670nm)  
+     - Phase Function (870nm)  
+     - Phase Function (1020nm)
+   - Inversions (Hybrid):
+     - SAME AS ALMUCANTAR  
    - SDA Retrievals:  
-    i. Fine/Coarse AOD  
-    ii. Fine Mode Fraction  
+     - Fine/Coarse AOD  
+     - Fine Mode Fraction  
    - Ocean Color, Cloud Mode Retrievals, SolRad-Net Flux: Currently not being used at HU  
 6.
 7.
