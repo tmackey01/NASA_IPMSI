@@ -1,5 +1,6 @@
-**This file serves as a quick guide to the Pandora Webpage, and how to quickly preview and download data  
-**Start w/ Open_Pandora.ipynb  
+**FIRST TIME USERS: Start w/ Open_Pandora.ipynb** 
+
+Below is a quick guide to the Pandora Webpage, and how to find and download data  
 
 1. Accessing Pandora Data starts by navigating to their website: http://pandora.gsfc.nasa.gov/ 
 2. On the loading page, locate the 'Data' drop down at the top of the home page
