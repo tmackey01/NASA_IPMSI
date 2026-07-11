@@ -15,8 +15,7 @@
 8. Now the levels of data should be shown as folders
    - For the examples shown in this folder, we have used L2 data (L0, L1, and L2Fit examples are in progress)
 9. Navigate into the L2 folder by clicking on the folder
-10. There should now be seven .txt files listed, differentiated by last nine characters in the name
-   - Ending in:
+10. There should now be seven .txt files listed, differentiated by last nine characters in the name. Each file ending in:
    - '*rfuh5p1-8.txt' -> Formaldehyde (HCHO) Vertical Profile
    - '*rfus5p1-8.txt' -> Formaldehyde (HCHO) Total Column
    - '*rnvh3p1-8.txt' -> Nitrogen Dioxide (NO2) Vertical Profile
