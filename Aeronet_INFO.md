@@ -23,7 +23,8 @@ Sky radiance measurements are inverted with the Dubovik and Nakajima inversions 
 
 The robot mounted sensor head is parked pointed near-nadir when idle to prevent contamination of the optical windows from rain and foreign particles.
 
-**NOTE** <br>
+**NOTE** 
+<br>
 Radiance [W/sr m^2] is the energy per square meter per steradian recieved at the detector. The steradian term accounts for the direction the detected photon arrived at the detector from. <br>
 Irradiance [W/m^2] is the energy per square meter recieved at the detector. <br>
 Solid Angle [sr] is the measure of how much of a field of view is taken up by a given object <br>
