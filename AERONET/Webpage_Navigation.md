@@ -30,6 +30,7 @@
    - SDA Retrievals:  
      - Fine/Coarse AOD  
      - Fine Mode Fraction  
-   - Ocean Color, Cloud Mode Retrievals, SolRad-Net Flux: Currently not being used at HU  
+   - Ocean Color, Cloud Mode Retrievals, SolRad-Net Flux:
+     - Currently not being used at HU  
 6.
 7.
