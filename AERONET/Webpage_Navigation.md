@@ -3,7 +3,7 @@
 
 1. Accessing Aeronet Data starts by navigating to their website: https://aeronet.gsfc.nasa.gov/new_web/index.html  
 2. On the loading page, locate the 'Synergy Tool' link located on the middle left of the home page  
-   a. A direct link to the Synergy Tool: https://aeronet.gsfc.nasa.gov/cgi-bin/bamgomas_interactive  
+   - A direct link to the Synergy Tool: https://aeronet.gsfc.nasa.gov/cgi-bin/bamgomas_interactive  
 3. In the 'Master Control' Panel on the right, first identify the name of your site underneath 'Enter Site Name:'  
    a. This will show you the possible Aeronet sites once you begin typing your site name - so if you are unsure of your specific name, start with the city the Aeronet is in  
 4. Once you've selected your site, click the 'Change Site' button  
