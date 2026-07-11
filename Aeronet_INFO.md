@@ -21,15 +21,15 @@ The approach is to acquire aureole and sky radiances observations through a larg
 More than eight almucantar sequences are made daily at an optical air mass of 4, 3, 2 and 1.7 both morning and afternoon. 
 Sky radiance measurements are inverted with the Dubovik and Nakajima inversions to provide aerosol properties of size distribution and phase function over the particle size range of 0.1 to 5 um.
 
-**NOTE**
-Radiance [W/sr m^2] is the energy per square meter per steradian recieved at the detector. The steradian term accounts for the direction the detected photon arrived at the detector from.
-Irradiance [W/m^2] is the energy per square meter recieved at the detector. 
-Solid Angle [sr] is the measure of how much of a field of view is taken up by a given object
-Steradian(sr) is defined as the the area an object fills in the sphere around the observer (see: https://en.wikipedia.org/wiki/Steradian)
+The robot mounted sensor head is parked pointed near-nadir when idle to prevent contamination of the optical windows from rain and foreign particles.
+
+**NOTE** <br>
+Radiance [W/sr m^2] is the energy per square meter per steradian recieved at the detector. The steradian term accounts for the direction the detected photon arrived at the detector from. <br>
+Irradiance [W/m^2] is the energy per square meter recieved at the detector. <br>
+Solid Angle [sr] is the measure of how much of a field of view is taken up by a given object <br>
+Steradian(sr) is defined as the the area an object fills in the sphere around the observer (see: https://en.wikipedia.org/wiki/Steradian) <br>
   For the Sun, which is sufficiently far away, the solid angle is defined as: OM = (Surface Area of a Circle w/ r = r_Sun)/(Distance between Earth and Sun)^2 = (piR_sun^2)/(Sun_Earth_Distance^2) = (pi(7e8m)^2)/((1.5e11m)^2) = 6.8e-5 sr
 
-
-For Sun-Staring observations, all photons are assumed to be coming from the Sun (this is a pretty good assumption!), so we irradiance is reported
-For Sky-Staring observations, there is a large range of possible solid angles for the photon to be scattered into the photometer from, so radiace is reported
-
-The robot mounted sensor head is parked pointed near-nadir when idle to prevent contamination of the optical windows from rain and foreign particles.
+<br>
+For Sun-Staring observations, all photons are assumed to be coming from the Sun (this is a pretty good assumption!), so we irradiance is reported <br>
+For Sky-Staring observations, there is a large range of possible solid angles for the photon to be scattered into the photometer from, so radiace is reported <br>
