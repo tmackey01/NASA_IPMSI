@@ -9,10 +9,10 @@
 4. Once you've selected your site, click the 'Change Site' button  
    - The name, latitude, longitude, and altitude directly to the right of the 'Enter Site Name:' box should be updated to your site  
 5. Locate the 'Surface Data' column in the table below the 'Enter Site Name:' box and select the desired Surface Data categories  
-   - AOD (Solar)  
-     - Aerosol Optical Depth (AOD)  
-     - Water Vapor  
-     - Angstrom Exponent  
+   - AOD (Solar) <-- Surface Data Category 
+     - Aerosol Optical Depth (AOD)  <-- Data Type
+     - Water Vapor  <-- Data Type
+     - Angstrom Exponent  <-- Data Type
    - Inversions (Almucantar):   
      - Size Distribution  
      - Refractive Index (Real)  
