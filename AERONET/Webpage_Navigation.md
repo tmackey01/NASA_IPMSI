@@ -11,8 +11,8 @@
 5. Locate the 'Surface Data' column in the table below the 'Enter Site Name:' box and select the desired Surface Data categories  
    - AOD (Solar) <-- Surface Data Category 
      - Aerosol Optical Depth (AOD)  <-- Data Type
-     - Water Vapor  <-- Data Type
-     - Angstrom Exponent  <-- Data Type
+     - Water Vapor  
+     - Angstrom Exponent  
    - Inversions (Almucantar):   
      - Size Distribution  
      - Refractive Index (Real)  
