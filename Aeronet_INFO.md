@@ -1,4 +1,4 @@
-**The information here is summarized from: https://aeronet.gsfc.nasa.gov<br>
+**The information that will eventually be here is summarized from: https://aeronet.gsfc.nasa.gov<br>
 <br>
 The Aeronet Instrument is a CIMEL Electronique CE318 multiband sun photometer that performs measurements of spectral sun irradiance (direct sunlight measurement) and sky radiances (indirect sunlight measurement). The latest CE318-T model also performs nighttime measurements of the spectral lunar irradiance. Aeronet is equipped with eight interference filters (discussed below) that rotate through an observation period, allowing for the photon intensity to be computed at multiple wavelengths near-simultaneously.<br>
 <br>
