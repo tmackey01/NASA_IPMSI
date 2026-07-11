@@ -25,10 +25,10 @@ The robot mounted sensor head is parked pointed near-nadir when idle to prevent 
 
 ***NOTE***
 <br>
-Radiance [W/sr m^2] is the energy per square meter per steradian recieved at the detector. The steradian term accounts for the direction the detected photon arrived at the detector from. <br>
-Irradiance [W/m^2] is the energy per square meter recieved at the detector. <br>
-Solid Angle [sr] is the measure of how much of a field of view is taken up by a given object <br>
-Steradian(sr) is defined as the the area an object fills in the sphere around the observer (see: https://en.wikipedia.org/wiki/Steradian) <br>
+**Radiance [W/sr m^2]** is the energy per square meter per steradian recieved at the detector. The steradian term accounts for the direction the detected photon arrived at the detector from. <br>
+**Irradiance [W/m^2]** is the energy per square meter recieved at the detector. <br>
+**Solid Angle [sr]** is the measure of how much of a field of view is taken up by a given object <br>
+**Steradian(sr)** is defined as the the area an object fills in the sphere around the observer (see: https://en.wikipedia.org/wiki/Steradian) <br>
   For the Sun, which is sufficiently far away, the solid angle is defined as: OM = (Surface Area of a Circle w/ r = r_Sun)/(Distance between Earth and Sun)^2 = (piR_sun^2)/(Sun_Earth_Distance^2) = (pi(7e8m)^2)/((1.5e11m)^2) = 6.8e-5 sr
 
 <br>
