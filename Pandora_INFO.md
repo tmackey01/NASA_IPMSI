@@ -1,12 +1,12 @@
 **The information that will eventually be here is summarized from: https://pandora.gsfc.nasa.gov
 
-Pandora Instruments are a part of the Pandonia Global Network. They utilize UV and visible spectroscopy methods to determine the composition of the atmosphere. Pandora was designed to specifically look at levels of ozone, nitrogen dioxide and formaldehyde, but has expanded to observe both water vapor and sulfur dioxide in the atmosphere. <br>
+Pandora Instruments are a part of the Pandonia Global Network. They utilize UV and visible spectroscopy methods to determine the composition of the atmosphere. Pandora was designed to specifically look at levels of ozone, nitrogen dioxide and formaldehyde, but has expanded to observe both water vapor and sulfur dioxide in the atmosphere. Concentrations are computed using either Differential Optical Absorption Spectroscopy (DOAS) or Multi-Axis DOAS (MAX-DOAS) which compare the difference in measured photons between two (or more) wavelengths, determined by the absorption spectra of the target gas, to determine the concentration of the gas present. DOAS returns total column measurements, providing information on the total concentration along the line of sight to the Sun, while MAX-DOAS allows for altitude attribution to concentrations. <br>
 Pandora currently operates two different retrieval methods - either direct sun or sky scan, with the Beer-Lambert-Bouguer Law being the basic principle behind each. <br>
-1. For the direct sun retrieval, the following information is requried: <br>
+1. For the direct sun retrieval (DOAS), the following information is requried: <br>
    -Sunlight intensity at the top of the Earth's atmosphere <br>
    -Target molecule absorption spectra in the wavelengths Pandora observes <br>
 **This returns a total column measurement, which represents the concentration per m<sup>2</sup> of the trace gas along the path from the Sun to the Pandora**
-2. For the sky scan retrieval, the following information is requried: <br>
+2. For the sky scan retrieval (MAX-DOAS), the following information is requried: <br>
    -Sunlight intensity at the top of the Earth's atmosphere <br>
    -Target molecule absorption spectra in the wavelengths Pandora observes <br>
    -Model forecasts/analysis of the expected meteorological variables (Pressure, Temperature, Relative Humidity) <br>
