@@ -13,6 +13,8 @@ Pandora currently operates two different retrieval methods - either direct sun o
 
 ![Two operation modes of Pandora](Sun_Sky.jpg) <br>
 
+More information about the wavelengths used, other trace gases that have an effect on the retrieval, and retrieval uncertainties can be found: https://pandora.gsfc.nasa.gov/Data/html/products.html
+
 
 The instrument package is as follows: <br>
 Spectrometer: AvaSpec-ULS 2048x64, on-cooled back-thinned CCD with 2048 x 64 effective pixels and a total size of 29 mm wide and 1 mm high <br>
