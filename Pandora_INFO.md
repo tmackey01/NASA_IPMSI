@@ -3,11 +3,11 @@
 Pandora Instruments are a part of the Pandonia Global Network. They utilize UV and visible spectroscopy methods to determine the composition of the atmosphere. Pandora was designed to specifically look at levels of ozone, nitrogen dioxide and formaldehyde, but has expanded to observe both water vapor and sulfur dioxide in the atmosphere. <br>
 Pandora currently operates two different retrieval methods - either direct sun or sky scan, with the Beer-Lambert-Bouguer Law being the basic principle behind each. <br>
 1. For the direct sun retrieval, the following information is requried: <br>
-   -The intensity of sunlight at the top of the Earth's atmosphere <br>
-   -The absorption spectra of the target molecule in the wavelengths Pandora observes <br>
+   -Sunlight intensity at the top of the Earth's atmosphere <br>
+   -Target molecule absorption spectra in the wavelengths Pandora observes <br>
 2. For the sky scan retrieval, the following information is requried: <br>
-   -The intensity of sunlight at the top of the Earth's atmosphere <br>
-   -The absorption spectra of the target molecule in the wavelengths Pandora observes <br>
+   -Sunlight intensity at the top of the Earth's atmosphere <br>
+   -Target molecule absorption spectra in the wavelengths Pandora observes <br>
    -Model forecasts/analysis of the expected meteorological variables (Pressure, Temperature, Relative Humidity) <br>
    -Radiative Transfer Model for the amount of sunlight being scattered off the target molecule in comparison to the background atmosphere <br>
 
