@@ -11,7 +11,7 @@ Pandora currently operates two different retrieval methods - either direct sun o
    -Target molecule absorption spectra in the wavelengths Pandora observes <br>
    -Model forecasts/analysis of the expected meteorological variables (Pressure, Temperature, Relative Humidity) <br>
    -Radiative Transfer Model for the amount of sunlight being scattered off the target molecule in comparison to the background atmosphere <br>
-**This returns a vertical profile measurement, which represents the concentration per m^2 of the trace gas at preset altitudes above the Pandora. These products are not a measure of directly overhead, but rather represent an average concentration at the given height level over a footprint (still determining)**
+**This returns a vertical profile measurement, which represents the concentration per m<sup>2</sup> of the trace gas at preset altitudes above the Pandora. These products are not a measure of directly overhead, but rather represent an average concentration at the given height level over a footprint (still determining)**
 ![Two operation modes of Pandora](Sun_Sky.jpg) <br>
 
 More information about the wavelengths used, other trace gases that have an effect on the retrieval, and retrieval uncertainties can be found: https://pandora.gsfc.nasa.gov/Data/html/products.html
