@@ -4,7 +4,7 @@ Pandora Instruments are a part of the Pandonia Global Network. They utilize UV a
 Pandora currently operates two different retrieval methods - either direct sun or sky scan, with the Beer-Lambert-Bouguer Law being the basic principle behind each. <br>
 For the direct sun retrieval, the following information is requried: <br>
 1. The intensity of sunlight at the top of the Earth's atmosphere
-2. The absorption spectra of the target molecule in the wavelengths Pandora observes
+2. The absorption spectra of the target molecule in the wavelengths Pandora observes <br>
 For the sky scan retrieval, the following information is requried: <br>
 1. The intensity of sunlight at the top of the Earth's atmosphere
 2. The absorption spectra of the target molecule in the wavelengths Pandora observes
