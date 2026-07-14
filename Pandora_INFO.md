@@ -5,7 +5,7 @@ Pandora currently operates two different retrieval methods - either direct sun o
 1. For the direct sun retrieval, the following information is requried: <br>
    -Sunlight intensity at the top of the Earth's atmosphere <br>
    -Target molecule absorption spectra in the wavelengths Pandora observes <br>
-**This returns a total column measurement, which represents the concentration per m^2 of the trace gas along the path from the Sun to the Pandora**
+**This returns a total column measurement, which represents the concentration per m<sup>2</sup> of the trace gas along the path from the Sun to the Pandora**
 2. For the sky scan retrieval, the following information is requried: <br>
    -Sunlight intensity at the top of the Earth's atmosphere <br>
    -Target molecule absorption spectra in the wavelengths Pandora observes <br>
