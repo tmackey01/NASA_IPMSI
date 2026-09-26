@@ -13,7 +13,7 @@ Below is a quick guide to the Pandora Webpage, and how to find and download data
     This shows the quality of the data collected over time, which is adjustable below the plot
 7. Fill the 'start' and 'end' date boxes with your desired time range
 8. At the bottom of the page, the 'Summary and Download' box should be filled with the following information:
-   PanID, Spectrometer, Location, Data Products,Time Range
+   PanID, Spectrometer, Location, Data Products,Time Range \n
    For example, getting the HCHO Total Column Data from Houston, TX for the month of January 2025 would read:
    PanID - 25
    Spectrometer -1
