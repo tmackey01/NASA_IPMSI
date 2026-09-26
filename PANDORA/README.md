@@ -24,7 +24,6 @@ Below is a quick guide to the Pandora Webpage, and how to find and download data
    PanID - 25 <br/>
    Spectrometer - 1 <br/>
    Location - HoustonTX <br/>
-   Data Products - HCHO tropospheric column (rfuh5p1-8) <br/>
-                   NO2 tropospheric column (rnvh3p1-8) <br/>
+   Data Products - HCHO tropospheric column (rfuh5p1-8), NO2 tropospheric column (rnvh3p1-8) <br/>
    Time Range - 2024-12-31 to 2025-01-31
 10. Select "Download" to save the file(s) to .txt on your computer
