@@ -7,7 +7,7 @@ Below is a quick guide to the Pandora Webpage, and how to find and download data
 3. Directly below the map, a table will show all instruments currently visible on the map - locate your Pandora in this table 
 4. Below this table is a "Status and Deployment Timelines" graph.
     This allows a quick check on instrument operational outages, as well as the cause (maintenance, out of operation, etc)
-5. Scroll down to the 'Select Dataset' table to view the data products available for your site, and select the desired variable(s)
+5. Scroll down to the 'Select Dataset' table to view the data products available for your site, and select the desired variable(s) "\n"
     Yes, you can chose more than 1! However, when you download the data, you'll get one file for each variable
 6. A new plot should generate below this table, labeled 'Data Availability'
     This shows the quality of the data collected over time, which is adjustable below the plot
